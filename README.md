@@ -2,7 +2,7 @@
 
 In this branch you code that I've made.
 
-##C++_Lecture_fichier
+## C++_Lecture_fichier
 
 It is a personal library that I made to use files (.txt or other) more easily.
 
