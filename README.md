@@ -1,5 +1,5 @@
 # Portfolio
 
-In this repo you will find some of my work.
+In this repository you will find some elements of my work made during my studies or internships.
 
-You will find some code in the branch "Master"
+You will find code in the "Master" branch, and CAD files made with Solidworks in the "Solidworks" branch.
