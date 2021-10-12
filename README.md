@@ -2,11 +2,11 @@
 
 In this branch you code that I've made.
 
-## C++_Lecture_fichier
+#### C++_Lecture_fichier
 
 It is a personal library that I made to use files (.txt or other) more easily.
 
-##C++_Space_invaders
+### C++_Space_invaders
 
 A two players Space invaders made during lessons.
 
