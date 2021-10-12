@@ -10,7 +10,7 @@ It is the CAD file of a personal project aborted due to non-profitability.
 
 #### GD R + C.STEP
 
-This is the CAD of a cart and a cooler that I developed during an internship. They are currently produced and sold by Technosoud.
+This is the CAD of a cart and a cooler that I developed during my job at Technosoud. They are currently produced and sold by this company.
 
 #### base mobile.STEP
 
