@@ -1,6 +1,6 @@
 # Programmation
 
-In this branch you code that I've made.
+In this branch, you have access to some of the code that I created.
 
 #### C++_Lecture_fichier
 It is a personal library that I made to use files (.txt or other) more easily.
