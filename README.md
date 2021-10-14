@@ -1,8 +1,6 @@
-# Portfolio
+#CAD
 
-In this repository you will find some elements of my work made during my studies or internships.
-
-You will find code in the "Master" branch, and CAD files made with Solidworks in the "Solidworks" branch.
+Here is part of my production with Solidworks. If you don't have software that can view a .STEP, some websites like https://beta.sharecad.org/ may do the trick.
 
 #### 4pots.STEP
 
